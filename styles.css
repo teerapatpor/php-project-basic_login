@@ -1,0 +1,30 @@
+.Navbar {
+  background-color: bisque;
+  text-align: center;
+  margin: 0px auto;
+  padding-top: 10px;
+  display: inline-block;
+  height: 50px;
+  width: 100%;
+}
+.Navbar_text:hover {
+  cursor: pointer;
+}
+.auth {
+  margin: 20px 0px 20px 20px;
+  float: right;
+}
+
+.logout {
+  margin: 20px 0px 20px 20px;
+  float: right;
+}
+
+.form_auth {
+  text-align: center;
+  margin: 10px auto;
+  padding-top: 20px;
+  background-color: cadetblue;
+  width: 50%;
+  height: 150px;
+}
