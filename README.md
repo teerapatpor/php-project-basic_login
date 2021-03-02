@@ -6,5 +6,5 @@ this website was created to learn basic of php
 - try to insert,select,update and delete mysql database with php
 - use Remotemysql to connect mysql database
 - 
-deploy website with heroku : https://remotemysql.com/databases.php
+deploy website with heroku : https://php-project-basic-login.herokuapp.com
 
