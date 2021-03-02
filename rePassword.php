@@ -20,7 +20,7 @@ session_destroy();
     <div class="Navbar">
         <h1 onclick="location.href='index.php'" class="Navbar_text" style="display:inline">Php Project</h1>
     </div>
-    <form action="./server/rePassword.php" method="post">
+    <form action="./server/rePassword.php" method="post" class="form_auth">
         <div>
             <label for="username">username: </label>
             <input type="text" id="username" name="username" placeholder="กรุณาใส่ username">
