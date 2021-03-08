@@ -9,10 +9,7 @@
 }
 .Navbar_text:hover {
   cursor: pointer;
-}
-.auth {
-  margin: 20px 0px 20px 20px;
-  float: right;
+  background-color: turquoise;
 }
 
 .logout {
@@ -22,9 +19,4 @@
 
 .form_auth {
   text-align: center;
-  margin: 10px auto;
-  padding-top: 20px;
-  background-color: cadetblue;
-  width: 50%;
-  height: 150px;
 }
